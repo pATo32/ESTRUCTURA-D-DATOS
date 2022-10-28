@@ -4,6 +4,6 @@
 ![gif-programacion-10](https://user-images.githubusercontent.com/101132627/198422387-c4b3aabb-38bb-4171-95b5-7e5bd6bbfc25.gif)
 
 LABORATORIOS🔭   
-  
+  https://github.com/pATo32/ESTRUCTURA-D-DATOS/tree/main/HITO%203/LABORATORIOS/Laboratorio1
 
 PRACTICA PROCESUAL💻  
